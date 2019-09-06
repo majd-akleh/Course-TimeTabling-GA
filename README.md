@@ -7,11 +7,11 @@ which normally consumes a lot of effort in terms of time and money.
 We have used Genetic Algorithm, we built a core model, which satisfies several constraints and conditions.
 
 ## Prerequisites:
-Project Environment: MATLAB.
-Genetic Algorithm Toolbox. (MathWorks)
+* Project Environment: MATLAB.
+* Genetic Algorithm Toolbox. (MathWorks)
  
 ## Authors:
-Majd Akleh
-Marsil Zakour
-Qais Badour
+* Majd Akleh
+* Marsil Zakour
+* Qais Badour
 
